@@ -1,0 +1,12 @@
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\bin\Debug\net5.0\SearchFight.Models.deps.json
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\bin\Debug\net5.0\SearchFight.Models.dll
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\bin\Debug\net5.0\ref\SearchFight.Models.dll
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\bin\Debug\net5.0\SearchFight.Models.pdb
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.csprojAssemblyReference.cache
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.AssemblyInfoInputs.cache
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.AssemblyInfo.cs
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.csproj.CoreCompileInputs.cache
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.dll
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\ref\SearchFight.Models.dll
+D:\Proyecto\Desktop\SearchFight\SearchFight.Models\obj\Debug\net5.0\SearchFight.Models.pdb

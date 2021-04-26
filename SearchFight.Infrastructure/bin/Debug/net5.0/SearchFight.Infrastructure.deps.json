@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SearchFight.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SearchFight.Models": "1.0.0"
+        },
+        "runtime": {
+          "SearchFight.Infrastructure.dll": {}
+        }
+      },
+      "SearchFight.Models/1.0.0": {
+        "runtime": {
+          "SearchFight.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchFight.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

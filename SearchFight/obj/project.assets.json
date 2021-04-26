@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "SearchFight.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SearchFight.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SearchFight.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchFight.Infrastructure.dll": {}
+        }
+      },
+      "SearchFight.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SearchFight.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SearchFight.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchFight.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../SearchFight.Infrastructure/SearchFight.Infrastructure.csproj",
+      "msbuildProject": "../SearchFight.Infrastructure/SearchFight.Infrastructure.csproj"
+    },
+    "SearchFight.Models/1.0.0": {
+      "type": "project",
+      "path": "../SearchFight.Models/SearchFight.Models.csproj",
+      "msbuildProject": "../SearchFight.Models/SearchFight.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SearchFight.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Phantamium\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proyecto\\Desktop\\SearchFight\\SearchFight\\SearchFight.csproj",
+      "projectName": "SearchFight",
+      "projectPath": "D:\\Proyecto\\Desktop\\SearchFight\\SearchFight\\SearchFight.csproj",
+      "packagesPath": "C:\\Users\\Phantamium\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyecto\\Desktop\\SearchFight\\SearchFight\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Phantamium\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Proyecto\\Desktop\\SearchFight\\SearchFight.Infrastructure\\SearchFight.Infrastructure.csproj": {
+              "projectPath": "D:\\Proyecto\\Desktop\\SearchFight\\SearchFight.Infrastructure\\SearchFight.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
